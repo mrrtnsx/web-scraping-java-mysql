@@ -93,8 +93,8 @@ Rodar a classe `Main`.
 ## 📷 Exemplo de saída
 
 ```
-Produto: A Light in the Attic | Preço: £51.77
-Produto: Tipping the Velvet | Preço: £53.74
+Livro: A Light in the Attic | Preço: £51.77
+Livro: Tipping the Velvet | Preço: £53.74
 ```
 
 ---
