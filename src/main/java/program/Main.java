@@ -1,4 +1,4 @@
-package com.meuprojeto;
+package program;
 
 import com.meuprojeto.dao.ProdutoDAO;
 import entities.Produto;
